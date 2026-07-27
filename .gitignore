@@ -9,3 +9,4 @@
 /.phpunit.cache/
 /phpstan-baseline.neon
 /.phpunit.result.cache
+.env
